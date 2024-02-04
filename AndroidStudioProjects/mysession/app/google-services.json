@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252915876727",
+    "project_id": "aswdw-d943e",
+    "storage_bucket": "aswdw-d943e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252915876727:android:1f61ad8f64ffbe9b1c5772",
+        "android_client_info": {
+          "package_name": "com.example.mysession"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF85P1k7uu_b3kRrhjkKY56eZ-Y8iCiXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+package com.example.wallpaper
+
+object data {
+    val list = listOf(
+        "https://i.pinimg.com/564x/57/d0/25/57d025262e7907875beb666b64788899.jpg",
+        "https://i.pinimg.com/564x/5f/ff/c3/5fffc359e26380c0d9d530d862bdc1bb.jpg",
+        "https://i.pinimg.com/564x/29/39/f2/2939f291007fd8f8bfb90b5f6659bda9.jpg",
+        "https://i.pinimg.com/564x/74/c4/a7/74c4a7ee958e1fab46c614f04d1501e9.jpg",
+        "https://i.pinimg.com/564x/28/80/71/288071bcd410fde0c61445f3cf4d3414.jpg",
+        "https://i.pinimg.com/564x/99/6a/d6/996ad68bfdfcfb499d84310abc1745ba.jpg",
+        "https://i.pinimg.com/564x/6a/99/ee/6a99ee843798375c5f7049316e8d31ed.jpg",
+        "https://i.pinimg.com/564x/20/90/86/2090864d7738df59d81334a3b53f6a4a.jpg",
+        "https://i.pinimg.com/564x/ee/0b/5d/ee0b5d86a4bb66de6375857a1f0e3a4b.jpg",
+        "https://i.pinimg.com/564x/fa/45/c5/fa45c5bbcedb3770caeb8a50b9e6d7c2.jpg",
+        "https://i.pinimg.com/564x/11/01/17/110117dbb81afb7bfeb50c61a01d4f23.jpg",
+        "https://i.pinimg.com/564x/17/cb/dc/17cbdc5243a5ce3165ebf6a67b513538.jpg",
+        "https://i.pinimg.com/564x/76/33/3c/76333caf31c2b3fc1cb6337965f26cc6.jpg",
+        "https://i.pinimg.com/564x/64/50/38/64503846b312a90a00764a5c16a8c567.jpg",
+        "https://i.pinimg.com/564x/c6/a7/18/c6a7180205d987dead83037dda2ba9c1.jpg",
+        "https://i.pinimg.com/564x/d6/2f/7b/d62f7bc0400f037ef41494d768b11281.jpg",
+        "https://i.pinimg.com/564x/49/27/ee/4927ee7ccfb4c53b7392a8ff86bc3bc9.jpg",
+        "https://i.pinimg.com/564x/19/42/f9/1942f9f7422cfd6c564a19b289670c1e.jpg",
+        "https://i.pinimg.com/564x/f0/80/57/f0805700f2d346c1c69078b3e5f3d5d2.jpg",
+        "https://i.pinimg.com/564x/aa/5d/6b/aa5d6b2c0cb3e132256d0a34590e235e.jpg",
+        "https://i.pinimg.com/564x/3b/52/e5/3b52e56c2f925341fa9b5fbd1e9ca0cd.jpg",
+        "https://i.pinimg.com/564x/4e/86/a8/4e86a8a5da0e41667b42333d2dcf4054.jpg",
+        "https://i.pinimg.com/564x/a3/69/bd/a369bdfd53802466b1bffd3100f5b367.jpg",
+        "https://i.pinimg.com/564x/ac/9c/60/ac9c60300da666d98b4a411edf591f06.jpg",
+        "https://i.pinimg.com/564x/4d/fc/b5/4dfcb5650f5a8708fbbaa1fbc5dbe088.jpg"
+    );
+    val names = listOf<Pair<String, String>>(
+        Pair("John", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Mary", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Bob", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Jane", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Peter", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Betty", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Paul", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Lisa", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("David", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Anne", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Mike", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Susan", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Joe", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Kate", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Tom", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Sally", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Jim", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Karen", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Kevin", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Amy", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Andrew", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Kelly", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Jack", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Megan", "https://www.w3schools.com/w3css/img_lights.jpg"),
+        Pair("Bill", "https://www.w3schools.com/w3css/img_lights.jpg")
+    )
+}
